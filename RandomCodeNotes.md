@@ -1,5 +1,7 @@
 # Random Study
 
+One line change to verify that I understand commits. 
+
 
 # Hacking inside the Random docs
 
